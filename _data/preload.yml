@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-04-05 00:44:44.802821'
+  iiif: true
+  thumbnail: https://evols.library.manoa.hawaii.edu/iiif-server/iiif/2/5c5467d6-cb4f-4edb-a6c3-09f5d23df2f1/full/90,/0/default.jpg
+  title: Body map
+  url: https://evols.library.manoa.hawaii.edu/server/iiif/753e7f06-8fe6-45fa-8197-d55890a248eb/manifest
+  user: becloudedwelkin
 settings: {}
 version: '2.1'
