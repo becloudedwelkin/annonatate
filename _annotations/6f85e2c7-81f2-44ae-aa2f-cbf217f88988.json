@@ -1,0 +1,34 @@
+---
+canvas: "https://evols.library.manoa.hawaii.edu/iiif-server/iiif/2/5c5467d6-cb4f-4edb-a6c3-09f5d23df2f1/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "sss",
+            "purpose": "commenting",
+            "creator": {
+                "id": "becloudedwelkin",
+                "name": "becloudedwelkin"
+            },
+            "created": "2024-04-05T00:45:38.692Z",
+            "modified": "2024-04-05T00:45:39.348Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://evols.library.manoa.hawaii.edu/iiif-server/iiif/2/5c5467d6-cb4f-4edb-a6c3-09f5d23df2f1/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4102.0146484375,5607.521484375,10721.1162109375,2295.306640625"
+        }
+    },
+    "id": "6f85e2c7-81f2-44ae-aa2f-cbf217f88988.json",
+    "motivation": "commenting"
+}
